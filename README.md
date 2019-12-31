@@ -4,4 +4,5 @@
 
 Samples the audio signal and analyzes audio using a Discrete Fourier Transform. The app will tell you which frequency in the signal is the loudest.
 
-[E is in tune!](./Images/good-E.png)
+![alt text](Images/good-E.PNG)
+![alt text](Images/bad-C.PNG)
